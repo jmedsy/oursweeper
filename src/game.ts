@@ -1,5 +1,5 @@
 import { Engine } from 'excalibur';
-import { PlayScene } from './scenes/play-scene';
+import { PlayScene } from './scenes/play/play-scene.ts';
 import { loader } from './resources/loader';
 
 export class Game extends Engine {
