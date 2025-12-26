@@ -8,7 +8,7 @@ export class Game extends Engine {
         super({
             width: 800,
             height: 600,
-            // antialiasing: false
+            antialiasing: false
         });
 
         // this.add('play', new PlayScene());
